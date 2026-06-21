@@ -157,36 +157,6 @@ I have led architecture and delivery initiatives involving:
 
 ---
 
-## Professional Experience Snapshot
-
-### Technical Architect — Cognizant
-
-**Jan 2013 – Present | Bangalore, India**
-
-- Leading enterprise architecture, modernization, and platform engineering initiatives.
-- Designing scalable systems across **Banking** and **Healthcare** domains.
-- Driving decomposition of legacy monoliths into **microservices-based platforms**.
-- Establishing engineering governance, API standards, code quality practices, and delivery-readiness frameworks.
-- Applying AI-assisted engineering practices to improve solution design, productivity, and modernization speed.
-
-### Senior Engineer — Collabera
-
-**Jan 2011 – Jan 2013 | Banking Domain**
-
-- Built and enhanced enterprise web applications using **C#**, **.NET**, **ASP.NET MVC**, **Angular**, and **SQL Server**.
-- Developed workflow components for corporate banking technology platforms.
-- Mentored junior engineers on Microsoft technology stacks and disciplined delivery practices.
-
-### Senior Software Engineer — iGate
-
-**Sept 2008 – Jan 2011 | Banking Domain**
-
-- Contributed to enterprise-scale banking applications for leading financial clients.
-- Designed modules supporting trade settlement, reconciliation, and internal banking workflows.
-- Refactored legacy systems to improve maintainability, production readiness, and platform functionality.
-
----
-
 ## Certifications
 
 - Microsoft Certified: Azure Solutions Architect Expert
