@@ -258,6 +258,8 @@ I have led architecture and delivery initiatives involving:
 - Microsoft Certified: Azure Developer Associate
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Certified: Agentic AI Business Solution Architect
+- Microsoft Certified: Azure Data Scientist Associate
+- Microsoft Certified: Azure AI Engineer Associate
 - GitHub Foundations
 - GitHub Copilot
 - GitHub Actions
