@@ -9,7 +9,6 @@ Building scalable enterprise platforms across **Banking**, **Healthcare**, **Clo
 
 [![GitHub](https://img.shields.io/badge/GitHub-majikoushik-181717?style=for-the-badge&logo=github)](https://github.com/majikoushik)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kcmaji-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kcmaji/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-koushikmaji.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://koushikmaji.netlify.app/)
 [![Medium](https://img.shields.io/badge/Medium-@koushiknsec34-000000?style=for-the-badge&logo=medium)](https://medium.com/@koushiknsec34)
 [![Email](https://img.shields.io/badge/Email-koushiknsec34%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koushiknsec34@gmail.com)
 
