@@ -300,7 +300,6 @@ My engineering philosophy is centered on:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kcmaji/)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://koushikmaji.netlify.app/)
 [![Medium](https://img.shields.io/badge/Read%20on%20Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/@koushiknsec34)
 [![Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koushiknsec34@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-majikoushik-181717?style=for-the-badge&logo=github)](https://github.com/majikoushik)
