@@ -153,20 +153,7 @@ I have led architecture and delivery initiatives involving:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=majikoushik&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Koushik's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majikoushik&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=majikoushik&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=majikoushik&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub profile trophies" />
 
 </div>
 
