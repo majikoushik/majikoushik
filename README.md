@@ -11,6 +11,8 @@ Building scalable enterprise platforms across **Banking**, **Healthcare**, **Clo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kcmaji-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kcmaji/)
 [![Medium](https://img.shields.io/badge/Medium-@koushiknsec34-000000?style=for-the-badge&logo=medium)](https://medium.com/@koushiknsec34)
 [![Email](https://img.shields.io/badge/Email-koushiknsec34%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koushiknsec34@gmail.com)
+[![Website](https://img.shields.io/badge/Website-koushikmaji.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://koushikmaji.netlify.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-Tech%20With%20Koushik-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TechWithKoushikOfficial)
 
 </div>
 
@@ -299,10 +301,12 @@ My engineering philosophy is centered on:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kcmaji/)
-[![Medium](https://img.shields.io/badge/Read%20on%20Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/@koushiknsec34)
-[![Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koushiknsec34@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-majikoushik-181717?style=for-the-badge&logo=github)](https://github.com/majikoushik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kcmaji-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kcmaji/)
+[![Medium](https://img.shields.io/badge/Medium-@koushiknsec34-000000?style=for-the-badge&logo=medium)](https://medium.com/@koushiknsec34)
+[![Email](https://img.shields.io/badge/Email-koushiknsec34%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koushiknsec34@gmail.com)
+[![Website](https://img.shields.io/badge/Website-koushikmaji.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://koushikmaji.netlify.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-Tech%20With%20Koushik-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TechWithKoushikOfficial)
 
 </div>
 
